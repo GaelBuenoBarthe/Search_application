@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Application</title>
+    <script>
+        async function searchStarships() {
+            const query = document.getElementById('query').value;
+            const response = await fetch(`/api/search?query=${query}`);
+            const data = await response.json();
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+
+            data.results.forEach(starship => {
+                const starshipLink = document.createElement('a');
+                starshipLink.href = starship.starshipUrl;
+                starshipLink.textContent = starship.name;
+                starshipLink.target = '_blank'; // Open in a new tab
+                resultsDiv.appendChild(starshipLink);
+                resultsDiv.appendChild(document.createElement('br'));
+            });
+        }
+    </script>
+</head>
+<body>
+<input type="text" id="query" placeholder="Search for starships...">
+<button onclick="searchStarships()">Search</button>
+<div id="results"></div>
+</body>
+</html>

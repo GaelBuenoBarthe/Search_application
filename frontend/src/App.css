@@ -1,0 +1,50 @@
+.App {
+  background-color: black;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-header {
+  text-align: center;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.yellow-text {
+  color: yellow;
+}
+
+.flip-image {
+  width: 200px; /* Increase the original size */
+  animation: flip 6s infinite; /* Slower animation */
+}
+
+@keyframes flip {
+  0% { transform: rotateY(0deg); }
+  50% { transform: rotateY(180deg); }
+  100% { transform: rotateY(360deg); }
+}
+
+input[type="text"] {
+  border-radius: 8px;
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input[type="text"]::placeholder {
+  color: white;
+}
+

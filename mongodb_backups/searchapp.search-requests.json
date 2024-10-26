@@ -1,0 +1,392 @@
+[{
+  "_id": {
+    "$oid": "671cd6d1852c622c1c4734fe"
+  },
+  "query": "cp",
+  "timestamp": "2024-10-26T13:47:29.6138067",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cd6d4852c622c1c4734ff"
+  },
+  "query": "cp",
+  "timestamp": "2024-10-26T13:47:32.9230917",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cd6e0852c622c1c473500"
+  },
+  "query": "cr",
+  "timestamp": "2024-10-26T13:47:44.6625669",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cd6ec852c622c1c473501"
+  },
+  "query": "CR 90 corvette",
+  "timestamp": "2024-10-26T13:47:56.7740158",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cd6f8852c622c1c473502"
+  },
+  "query": "cr",
+  "timestamp": "2024-10-26T13:48:08.4121643",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cd77ad84aaf2d00cfe03b"
+  },
+  "query": "cr",
+  "timestamp": "2024-10-26T13:50:18.0260026",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cdaafde0ff35cc91a38e1"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:03:59.0568382",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cdabbde0ff35cc91a38e2"
+  },
+  "query": "CR90 corvette",
+  "timestamp": "2024-10-26T14:04:11.9693802",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cdb70de0ff35cc91a38e3"
+  },
+  "query": "CR",
+  "timestamp": "2024-10-26T14:07:12.0095863",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cdc13de0ff35cc91a38e4"
+  },
+  "query": "c",
+  "timestamp": "2024-10-26T14:09:55.4599853",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cdebdde0ff35cc91a38e5"
+  },
+  "query": "c",
+  "timestamp": "2024-10-26T14:21:17.8039619",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cdf04de0ff35cc91a38e6"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:22:28.8010351",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce07dde0ff35cc91a38e7"
+  },
+  "query": "c",
+  "timestamp": "2024-10-26T14:28:45.8237666",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce0e9de0ff35cc91a38e8"
+  },
+  "query": "c",
+  "timestamp": "2024-10-26T14:30:33.0501274",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce140de0ff35cc91a38e9"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:32:00.9867968",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce141de0ff35cc91a38ea"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:32:01.4242552",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce1b8de0ff35cc91a38eb"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:34:00.1397683",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce276de0ff35cc91a38ec"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:37:10.9143345",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce2fdde0ff35cc91a38ed"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:39:25.0007812",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce35dde0ff35cc91a38ee"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:41:01.9427384",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce398de0ff35cc91a38ef"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:42:00.1644965",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce429de0ff35cc91a38f0"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:44:25.2079284",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce471de0ff35cc91a38f1"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:45:37.0955696",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce4d3de0ff35cc91a38f2"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:47:15.4847527",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce57dde0ff35cc91a38f3"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:50:05.2716466",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce5eede0ff35cc91a38f4"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:51:58.5565088",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce619de0ff35cc91a38f5"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:52:41.6400706",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce636de0ff35cc91a38f6"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:53:10.0460124",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce659de0ff35cc91a38f7"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:53:45.1286694",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce664de0ff35cc91a38f8"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:53:56.3751085",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce6a9de0ff35cc91a38f9"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T14:55:05.1427769",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce7f3de0ff35cc91a38fa"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:00:35.8010319",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ce9a9de0ff35cc91a38fb"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:07:53.6339605",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cea68de0ff35cc91a38fc"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:11:04.1978192",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ceb35de0ff35cc91a38fd"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:14:29.4026521",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ced41de0ff35cc91a38fe"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:23:13.3670836",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ced5dde0ff35cc91a38ff"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:23:41.6799646",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ced61de0ff35cc91a3900"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:23:45.2778537",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ced77de0ff35cc91a3901"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:24:07.4027174",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ceda6de0ff35cc91a3902"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:24:54.749626",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cee12de0ff35cc91a3903"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:26:42.8292443",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cee2fde0ff35cc91a3904"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:27:11.9832257",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cee6cde0ff35cc91a3905"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:28:12.2411226",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cee90de0ff35cc91a3906"
+  },
+  "query": "CR",
+  "timestamp": "2024-10-26T15:28:48.3730367",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ceec7de0ff35cc91a3907"
+  },
+  "query": "CRuiser",
+  "timestamp": "2024-10-26T15:29:43.9179537",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671ceedfde0ff35cc91a3908"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:30:07.1807538",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cef15de0ff35cc91a3909"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:31:01.3134303",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cef25de0ff35cc91a390a"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:31:17.2811596",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+},
+{
+  "_id": {
+    "$oid": "671cef33de0ff35cc91a390b"
+  },
+  "query": "",
+  "timestamp": "2024-10-26T15:31:31.1765216",
+  "_class": "diginamic.m052024.search_application.model.SearchRequest"
+}]

@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gray-800 {
+  background-color: #333; /* Dark gray background */
+}
+
+.text-white {
+  color: #fff; /* White text */
+}
+
+.rounded-lg {
+  border-radius: 0.5rem; /* Rounded corners */
+}
+
+.p-4 {
+  padding: 1rem; /* Padding */
+}
+
+.border-b {
+  border-bottom: 1px solid #4a5568; /* Border bottom */
+}
+
+.border {
+  border: 1px solid #4a5568; /* Border */
+}
+
+.mb-4 {
+  margin-bottom: 1rem; /* Margin bottom */
+}
+
+.w-full {
+  width: 100%; /* Full width */
+}
+
+.max-w-2xl {
+  max-width: 75rem; /* Increase max width */
+}
+
+.results-container {
+  margin-top: 1rem; /* Margin top */
+  background-color: #333; /* Ensure the same dark gray background */
+  max-width: 75rem; /* Increase max width */
+}
