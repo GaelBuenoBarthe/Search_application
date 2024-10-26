@@ -5,6 +5,10 @@ This project is a search application that allows users to search for starships u
 
 ## Setup
 
+### Clone the repository
+
+-git clone https://github.com/GaelBuenoBarthe/Search_application.git
+
 ### Prerequisites
 - Java 11 or higher
 - Maven
